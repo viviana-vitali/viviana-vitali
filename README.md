@@ -1,5 +1,9 @@
-## Hi there 👋
-
+- 👋 Hi, I'm Viviana. 
+- 👀 I’m interested in Mathematics, Data Science and Economics.
+- 👨🏻‍💻 I can code in Python, R, FAME, MDT and C++.
+- 💞️ Passionate about data.
+- 📫 How to reach me: viviana.vitali98@gmail.com / www.linkedin.com/in/viviana-v-a560a4a5
+- 
 <!--
 **viviana-vitali/viviana-vitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
